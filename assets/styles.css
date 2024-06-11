@@ -49,7 +49,7 @@ section {
 }
 
 #about .avatar {
-    width: 150px;
+    max-width: 150px;
 }
 
 .gallery {
@@ -63,7 +63,6 @@ section {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 30%;
 }
 
 .gallery-item img {
