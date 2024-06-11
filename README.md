@@ -4,6 +4,6 @@ Made a portfolio page with a nav bar that goes to a picture of me and an about s
 ## Screenshot
 Link![Screenshot (1)](https://github.com/Sethav123/module-2-challenge/assets/170278685/b5e78241-a674-4118-b99a-851710835699)
 ## Link
-
+https://sethav123.github.io/module-2-challenge/
 
 
